@@ -29,4 +29,4 @@ Aqui estão as linguagens e ferramentas que utilizo ou estou estudando ativament
 ---
 
 ### Como me encontrar
-* **LinkedIn:** [Nicolas Linneke](https://www.linkedin.com/in/nicolas-linneke-60655112a8) 
+* **LinkedIn:** [Nicolas Linneke](https://www.linkedin.com/in/nicolas-linneke) 
