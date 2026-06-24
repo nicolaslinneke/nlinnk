@@ -21,13 +21,12 @@ Aqui estão as linguagens e ferramentas que utilizo ou estou estudando ativament
 
 ---
 
-### Estatísticas do GitHub
-<p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=nlinnk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=nlinnk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)" alt="Estatísticas do GitHub de Nicolas" height="180em"  />
-  <img src="[https://github-readme-stats.vercel.app/api?username=nlinnk&layout=compact&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=nlinnk&layout=compact&theme=dracula)" alt="Linguagens mais usadas" height="180em" />
-</p>
+### ### Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nlinnk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nlinnk&layout=compact&theme=dracula)
 
 ---
 
 ### Como me encontrar
-* **LinkedIn:** [Nicolas Linneke](https://www.linkedin.com/in/nicolas-linneke-60655112a8)  
+* **LinkedIn:** [Nicolas Linneke](https://www.linkedin.com/in/nicolas-linneke-60655112a8) 
